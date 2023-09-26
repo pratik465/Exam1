@@ -38,10 +38,6 @@ class MainActivity : AppCompatActivity() {
                         loadFragment(Add_Fragment())
                     }
 
-
-                    R.id.profile -> {
-                        loadFragment(Profile_Fragment())
-                    }
                 }
 
                 return true
