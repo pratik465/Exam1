@@ -33,17 +33,11 @@ class MainActivity : AppCompatActivity() {
                         loadFragment(Home_Fragment())
                     }
 
-                    R.id.notification -> {
-                        loadFragment(NotificationFragment())
-                    }
 
                     R.id.add -> {
                         loadFragment(Add_Fragment())
                     }
 
-                    R.id.category -> {
-                        loadFragment(Category_Fragment())
-                    }
 
                     R.id.profile -> {
                         loadFragment(Profile_Fragment())

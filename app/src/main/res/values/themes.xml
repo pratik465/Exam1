@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.Exam1" parent="Base.Theme.Exam1" />
+    <style name="Add_Style">
+        <item name="android:background">#3E3D3D</item>
+    </style>
 </resources>
